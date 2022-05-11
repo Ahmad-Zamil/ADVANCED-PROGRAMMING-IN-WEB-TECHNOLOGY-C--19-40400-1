@@ -1,8 +1,8 @@
 ## Information
 
-Name: Nura Jannat Rakhi
-Id: 19-40042-1
-Section: B [Fall 20-21]
+Name: Ahmad Zamil
+Id: 19-40400-1
+Section: C
 
 ## Functionality:
 
